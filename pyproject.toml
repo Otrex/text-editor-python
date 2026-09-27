@@ -1,0 +1,9 @@
+[project]
+name = "editor-test"
+version = "0.1.0"
+description = "A text editor with pluggable terminal and Tk Canvas renderers"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+	"spacy>=3.8,<4",
+]

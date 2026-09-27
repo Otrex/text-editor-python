@@ -1,0 +1,16 @@
+COLOR_DEFINITIONS = (
+	("BLACK", "#20231f", "black"),
+	("RED", "#b04d35", "red"),
+	("GREEN", "#557d45", "green"),
+	("YELLOW", "#786a36", "yellow"),
+	("BLUE", "#286f9c", "blue"),
+	("MAGENTA", "#9863a6", "magenta"),
+	("CYAN", "#587b87", "cyan"),
+	("WHITE", "#fbfbf8", "white"),
+	("GRAY", "#8a918b", "yellow"),
+	("ORANGE", "#a05d2f", "red"),
+	("TEAL", "#397a77", "cyan"),
+	("SLATE", "#687a9a", "blue"),
+	("VIOLET", "#8362a2", "magenta"),
+	("AMBER", "#ad7934", "yellow"),
+)
